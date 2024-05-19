@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abunnasar</h1>
 <h3 align="center">A passionate Machine Learning From India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpietroow&psig=AOvVaw3LP55Ua-QwgKsy5AS-XDQ-&ust=1716226935332000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDeldqhmoYDFQAAAAAdAAAAABBe">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frajpratyush%2Frajpratyush&psig=AOvVaw3LP55Ua-QwgKsy5AS-XDQ-&ust=1716226935332000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDeldqhmoYDFQAAAAAdAAAAABBm">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abunnasar-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="abunnasar-programmer" /> </p>
 
