@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abunnasar</h1>
 <h3 align="center">A passionate Machine Learning From India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2VGlbIFuRCJ4-iCVhj_16x&ust=1716228011673000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC8w9mlmoYDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1Cd7QG9_daOiLJNY98T3sT&ust=1717224361083000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCP9bGlt4YDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCoding-Meet&psig=AOvVaw02CtNCwWBBPtJJTIzbDx-L&ust=1716791960990000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjBgMzaqoYDFQAAAAAdAAAAABAJ" /> </p>
 
