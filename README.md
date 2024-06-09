@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on Python [Amazing_Python_Programs](https://github.com/Abunnasarmomin/AMAZING_PYTHON_PROGRAMS.git)
 
-- 🌱 I’m currently learning Python **Pandas, Numpy**
+- 🌱 I’m currently learning Python **C++, Javascript**
 
 - 🤝 I’m looking for help with C++ [Cpp_Coding](https://github.com/Abunnasarmomin/Cpp_Coding.git)
 
-- 👨‍💻 All of my projects are available at [https://replit.com/@ShahidMomin1](https://replit.com/@ShahidMomin1)
-
-- 💬 Ask me about C++,Python,Javascript **Pandas,C++**
+- 💬 Ask me about C++,Python,Javascript 
 
 - 📫 How to reach me **abunnasarmomin14@gmail.com**
 
